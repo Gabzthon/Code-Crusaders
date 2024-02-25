@@ -47,6 +47,11 @@ body{
    padding-left: 30rem;
 }
 
+#toggle-btn {
+   display: none; /* This hides the button */
+}
+
+
 body.dark{
    --light-color:#aaa;
    --light-bg:#333;
